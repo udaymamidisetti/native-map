@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65235005281",
+    "project_id": "taskpushnotification",
+    "storage_bucket": "taskpushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65235005281:android:441231ed8a61b0a9c19f20",
+        "android_client_info": {
+          "package_name": "com.taskpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65235005281-9aosm9ccfpb98ldu4b4ec1kra1u23lj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmQ86HG1aGUSXWrKhGv0FKd5_gCc40Q5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65235005281-9aosm9ccfpb98ldu4b4ec1kra1u23lj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
